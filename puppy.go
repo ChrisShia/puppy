@@ -1,6 +1,8 @@
 package puppy
 
 import (
+	"fmt"
+
 	"github.com/ChrisShia/dog"
 )
 
